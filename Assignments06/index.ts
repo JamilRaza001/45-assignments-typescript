@@ -23,5 +23,5 @@ console.log("The Multiplication of 4 * 2 =",Multiplication);
 
 let Division:number = 16 / 2;
 
-console.log("The Division of 4 * 2 =",Division);
+console.log("The Division of 16 / 2 =",Division);
 
