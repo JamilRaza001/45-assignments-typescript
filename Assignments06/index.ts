@@ -10,14 +10,11 @@ let Subscription:number = 10 - 2;
 
 console.log("The Subscription of 10 - 2 =",Subscription);
 
-
-
 // Multiplication
 
 let Multiplication:number = 4 * 2;
 
 console.log("The Multiplication of 4 * 2 =",Multiplication);
-
 
 // Division
 
