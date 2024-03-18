@@ -8,7 +8,6 @@ let FavoriteNumber:number = 12;
 console.log("My Favorite Number is",FavoriteNumber);
 
 
-
 // Storing person name with white space in variable
 
 let PersonName:string = "\t \n  Jamil Raza \t\n ";
